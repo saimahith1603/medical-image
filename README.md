@@ -4,15 +4,6 @@ DiagnoSys is a comprehensive web application that provides advanced detection an
 <br/>
 <br/>
 <br/>
-## Preview
-### Homepage
-<img width="1280" alt="Screenshot 2023-07-01 at 4 29 28 PM" src="https://github.com/Karanchaudhary350/DiagnoSys/assets/78443850/609c4009-b01e-4f52-b811-91dfdb8ebe70">
-<br/>
-
-### Services
-<img width="1280" alt="Screenshot 2023-07-01 at 4 29 38 PM" src="https://github.com/Karanchaudhary350/DiagnoSys/assets/78443850/0aef645c-7fc5-4587-bafe-32b431651469">
-
-## Features
 
 - **COVID-19 Detection:** DiagnoSys utilizes deep learning techniques to accurately detect COVID-19 from chest X-ray images. This feature can help healthcare professionals quickly identify potential COVID-19 cases and take appropriate measures.
 
